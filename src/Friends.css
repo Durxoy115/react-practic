@@ -1,0 +1,7 @@
+.box{
+    border: 2x solid tomato;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: rgb(15, 122, 87);
+}
